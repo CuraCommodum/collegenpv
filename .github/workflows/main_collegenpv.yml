@@ -54,4 +54,4 @@ jobs:
           app-name: 'collegenpv'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3A5DE80ABD248ACBC050D607B0240B8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBDC9027FC224B8E93CEAA4BCD35F2A3 }}
